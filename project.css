@@ -1,0 +1,77 @@
+/* For main page*/
+
+p.headingbox {
+    border-style: solid; 
+    width: 30%; 
+    border-color:crimson; 
+    margin: auto;
+    font-size: 40px; 
+    font-family: Georgia;
+}
+
+p.texts {
+    font-size: 20px;
+}
+
+p.links {
+    border: 3px solid crimson;
+    border-radius: 10px;
+    margin: 50px;
+    color: black;
+    size: 5px;
+    width: 5%;
+    text-align: center;
+}
+
+hr {
+    border-top: 5px dashed ; 
+    color: crimson; 
+    width: 85%;
+}
+
+body.main {
+    background-image: url('https://image.slidesdocs.com/responsive-images/background/plant-geometric-nature-simple-ink-yellow-powerpoint-background_af8f730c6d__960_540.jpg'); 
+    background-size: 100%;
+    text-align: center;
+}
+
+ul {
+    color: #6b6ba4; 
+    text-align: left; 
+    font-size: 17px;
+}
+
+button.main {
+    margin-top: 0;
+    margin-left: 75%;
+    border-radius: 15px; 
+    border-color:#f5efe3; 
+    background-color:#f5efe3;
+    opacity: .7; 
+    font-size: 20px;
+    }
+
+
+  /* For home page*/
+
+    body.home {
+        text-align: center;
+        background-image: url('https://img.freepik.com/premium-vector/background-vector-design-with-japanese-style-decorative_564889-134.jpg?w=1060'); 
+        background-size: 100%;
+    }
+
+    href {
+        text-align: center;
+    }
+    button.home {
+        text-align: center;
+        border-radius: 15px; 
+        border-color:#fbc5c3; 
+        background-color:#fbc5c3;
+        opacity: .5; 
+        font-size: 35px;
+        }
+
+    tittle {
+        display: none;
+    }
